@@ -1,4 +1,4 @@
 -	The file Report_Project_DIC_RAPHAEL_GUEGAN.pdf contains all the information needed to understand and use the different programs to make the system work.
--	To access the different SD card images, use the link to the RaspiCam folder on the first page of the file Report_Project_DIC_RAPHAEL_GUEGAN.pdf
+-	To access the different SD card images, use the link to the RaspiCam folder on the first page of the file Report_Project_DIC_RAPHAEL_GUEGAN.pdf. Be careful when opening the zip file, as the total size of all the files is around 200 GB.
 -	You can find all clients and server programs in the folder Client and Server
 -	If you have any question contact Raphaël GUEGAN at raphael.guegan@epfedu.fr or raphaelguegan.pro@gmail.com
